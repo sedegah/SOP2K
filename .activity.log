@@ -511,3 +511,4 @@
 // Improve SOP expression tokenization – 2026-06-18 15:00:00
 // Enhance K-map grouping logic – 2026-06-19 15:00:00
 // Improve SOP expression tokenization – 2026-06-19 15:00:00
+// Refactor expression simplification engine – 2026-06-19 15:00:00
